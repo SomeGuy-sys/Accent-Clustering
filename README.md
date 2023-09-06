@@ -2,6 +2,8 @@
 
 I was in a group project with my peers using unsupervised **machine learning algorithms** to cluster english speaking accents that were from america.
 
+This repo has 2 files: the python note book that goes in to the nitty gritty and the final report in PDF format.
+
 In this project I was in charge of implementing a Guassian Hidden Markov Model (GHMM).<br> 
 **Hidden Markov Models** are probabistic mathematical models that can predict unobserve states using observeable states. For example we can determine what is the weather outside depending on seeing what people where when they head outside.
 
